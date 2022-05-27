@@ -1,0 +1,32 @@
+.d1 {
+  background-color: #475569;
+  padding: 10px;
+  height: 25vh;
+}
+.text {
+  margin-left: 100px;
+}
+.h-h1 {
+  color: #ffffff;
+  height: 20px;
+  margin-bottom: 30px;
+}
+.h-p1 {
+  color: #ffffff;
+  font-size: 14px;
+  height: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.h-in1 {
+  height: 25px;
+  display: flex;
+  align-items: center;
+}
+.h-in2 {
+  height: 25px;
+  width: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+}

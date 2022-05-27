@@ -1,0 +1,13 @@
+.h-c11 {
+  height: 13vh;
+  background-color: #cbd5e1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.h-h11 {
+  color: #475569;
+  font-size: 33px;
+  font-weight: bold;
+  height: 40px;
+}

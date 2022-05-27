@@ -1,0 +1,15 @@
+.l-card1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+}
+.l-card2 {
+  height: 65vh;
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+}
+.l-p1 {
+  background-color: aqua;
+}
